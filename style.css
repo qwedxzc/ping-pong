@@ -13,3 +13,8 @@ body {
     flex-direction: column;
 }
 
+.table {
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+
